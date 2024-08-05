@@ -1,0 +1,60 @@
+Comprar productos de animación
+Bot: ¡Perfecto! ¿Qué tipo de productos de animación te interesan?
+
+Figuras de acción
+Películas y series
+Merchandising (camisetas, posters, etc.)
+Coleccionables
+Usuario selecciona una opción.
+
+Bot: (Dependiendo de la selección)
+
+Figuras de acción: Aquí tienes nuestras figuras de acción más populares: [Lista de figuras]. ¡Aprovecha nuestra oferta del 15% de descuento en figuras seleccionadas!
+Películas y series: ¿Buscas algo en particular? Puedes buscar por título o género. Tenemos una promoción de 2x1 en algunas películas.
+Merchandising: Aquí tienes nuestros productos de merchandising: [Lista de productos]. ¡Descuentos en camisetas de tus series favoritas!
+Coleccionables: Estos son nuestros coleccionables destacados: [Lista de coleccionables]. ¡No te pierdas las ofertas exclusivas en coleccionables raros!
+Consultar mi pedido
+Bot: Claro, necesito algunos detalles para ayudarte a consultar tu pedido.
+
+Introducir número de pedido
+Introducir correo electrónico asociado al pedido
+Usuario introduce los detalles.
+
+Bot: (Después de verificar)
+
+Número de pedido: Tu pedido [número] está actualmente en [estado del pedido].
+Correo electrónico: Hemos enviado los detalles de tu pedido al correo electrónico asociado. ¿Necesitas ayuda con algo más?
+Promociones y ofertas
+Bot: ¡Tenemos increíbles promociones para ti!
+
+Ver todas las ofertas
+Ofertas en cómics
+Ofertas en productos de animación
+Ofertas exclusivas para miembros
+Usuario selecciona una opción.
+
+Bot: (Dependiendo de la selección)
+
+Ver todas las ofertas: Aquí tienes todas nuestras ofertas actuales: [Enlace a la página de ofertas].
+Ofertas en cómics: Estas son nuestras mejores ofertas en cómics: [Lista de ofertas en cómics].
+Ofertas en productos de animación: Aquí tienes las ofertas en productos de animación: [Lista de ofertas en animación].
+Ofertas exclusivas para miembros: ¡Únete a nuestro club de miembros y obtén acceso a ofertas exclusivas y descuentos adicionales! [Enlace para unirse al club]
+Ayuda y soporte
+Bot: ¿En qué necesitas ayuda?
+
+Problemas con un pedido
+Preguntas sobre productos
+Devoluciones y reembolsos
+Otros
+Usuario selecciona una opción.
+
+Bot: (Dependiendo de la selección)
+
+Problemas con un pedido: Por favor, proporciona el número de pedido y una breve descripción del problema.
+Preguntas sobre productos: ¿Sobre qué producto tienes preguntas? Puedes proporcionar el nombre o una descripción breve.
+Devoluciones y reembolsos: Aquí están nuestras políticas de devolución y reembolso: [Enlace a las políticas]. ¿Deseas iniciar una devolución?
+Otros: Por favor, proporciona más detalles para poder asistirte mejor.
+Despedida
+Bot: Gracias por contactarnos. ¡No olvides revisar nuestras promociones actuales antes de irte! ¿Hay algo más en lo que pueda ayudarte?
+
+Este flujo de chat no solo responde a las dudas de los clientes, sino que también promociona ventas y ofertas especiales. ¿Hay algo más que te gustaría añadir o modificar?
